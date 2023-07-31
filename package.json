@@ -11,5 +11,8 @@
     "vuepress": "1.9.7",
     "vuepress-theme-reco": "1.6.17"
   },
-  "description": "我的个人博客"
+  "description": "我的个人博客",
+  "dependencies": {
+    "vuepress-plugin-mermaidjs": "^2.0.0-beta.2"
+  }
 }
