@@ -58,10 +58,11 @@ module.exports = {
         ],
       },
     ],
-    sidebar: {
-      '/docs/theme-reco/': ['', 'theme', 'plugin', 'api'],
-    },
+    // sidebar: {
+    //   '/docs/theme-reco/': ['', 'theme', 'plugin', 'api'],
+    // },
     type: 'blog',
+    sidebar: "auto",
     blogConfig: {
       category: {
         location: 2,
